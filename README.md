@@ -6,7 +6,7 @@ The user writes a digit on the mobile screen. Then, the app can be recognized wh
 The project is just simple. But, for recognizing the digit, well-constructed neural network is used in this project. The accuracy of recognizing is reached at 99.5%.
 The most important part in this project is to combine this training result of neural network with android project.
 ## Technical Specifications
-This project has the following technical specifications.
+This project has following technical specifications.
 * Deep learning
   *	Constructing neural network which recognize the handwritten digit
   *	Paris of train and result data
