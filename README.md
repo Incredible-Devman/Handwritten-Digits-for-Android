@@ -1,4 +1,4 @@
-# android_with_deeplearning
+# Handwritten Digits for Android
 A project-based Artificial Intelligence and Android.
 ## description
 This is the project for recognizing the handwritten digit on the mobile phone.
